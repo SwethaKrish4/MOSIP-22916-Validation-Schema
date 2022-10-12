@@ -1,0 +1,8 @@
+individualBiometrics doesn't existing in ui_spec 
+introducerBiometrics doesn't existing in ui_spec 
+individualAuthBiometrics doesn't existing in ui_spec 
+UIN doesn't existing in ui_spec 
+preferredLang doesn't existing in ui_spec 
+yearOfBirth doesn't existing in ui_spec 
+monthOfBirth doesn't existing in ui_spec 
+dayOfBirth doesn't existing in ui_spec 

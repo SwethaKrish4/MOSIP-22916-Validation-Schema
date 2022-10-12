@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IdSchemaAndUiSpec">
+    <output-path>$PROJECT_DIR$/out/artifacts/IdSchemaAndUiSpec</output-path>
+    <root id="archive" name="IdSchemaAndUiSpec.jar">
+      <element id="module-output" name="Mosip_22916_Validation_Schema" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../Program Files/jackson-annotations-2.13.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../Program Files/jackson-core-2.13.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../Program Files/jackson-databind-2.13.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

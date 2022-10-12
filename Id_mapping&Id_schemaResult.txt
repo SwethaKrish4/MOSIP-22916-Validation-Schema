@@ -1,0 +1,14 @@
+------------------------identity object--------------------------
+For age in identity_mapping value: age is missing from identity_schema 
+For introducerVID in identity_mapping value: introducerVID is missing from identity_schema 
+For officerBiometricFileName in identity_mapping value: officerBiometricFileName is missing from identity_schema 
+For supervisorBiometricFileName in identity_mapping value: supervisorBiometricFileName is missing from identity_schema 
+For addressLine1 in identity_mapping value: addressLine1 is missing from identity_schema 
+For addressLine2 in identity_mapping value: addressLine2 is missing from identity_schema 
+For addressLine3 in identity_mapping value: addressLine3 is missing from identity_schema 
+For fullAddress in identity_mapping value: addressLine1,addressLine2,addressLine3 are missing from identity_schema 
+------------------------metaInfo object------------------------- 
+For metaInfo in identity_mapping value: metaInfo field is missing from identity_schema 
+------------------------audits object-------------------------- 
+For audits in identity_mapping value: audits field is missing from identity_schema 
+------------------------documents object-------------------------- 
